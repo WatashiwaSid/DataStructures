@@ -1,3 +1,10 @@
+/*
+Linear Search Algorithm.
+Worst Case Time Complexity : 0(n) "Element are searched at linear time"
+Best Case Time Complexity : 0(1) "Element being found at the first index of the data set"
+Space Complexity : 0(1) "No extra space required"
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
